@@ -14,6 +14,7 @@
 		834336BF2B8C44BC007E8467 /* SQLConverterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 834336BE2B8C44BC007E8467 /* SQLConverterTests.swift */; };
 		834336C92B8C44BC007E8467 /* SQLConverterUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 834336C82B8C44BC007E8467 /* SQLConverterUITests.swift */; };
 		834336CB2B8C44BC007E8467 /* SQLConverterUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 834336CA2B8C44BC007E8467 /* SQLConverterUITestsLaunchTests.swift */; };
+		834336D82B8C44FC007E8467 /* QueryConverter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 834336D72B8C44FC007E8467 /* QueryConverter.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		834336C42B8C44BC007E8467 /* SQLConverterUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SQLConverterUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		834336C82B8C44BC007E8467 /* SQLConverterUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SQLConverterUITests.swift; sourceTree = "<group>"; };
 		834336CA2B8C44BC007E8467 /* SQLConverterUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SQLConverterUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		834336D72B8C44FC007E8467 /* QueryConverter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QueryConverter.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 			children = (
 				834336AC2B8C44BA007E8467 /* SQLConverterApp.swift */,
 				834336AE2B8C44BA007E8467 /* ContentView.swift */,
+				834336D72B8C44FC007E8467 /* QueryConverter.swift */,
 				834336B02B8C44BB007E8467 /* Assets.xcassets */,
 				834336B52B8C44BB007E8467 /* SQLConverter.entitlements */,
 				834336B22B8C44BB007E8467 /* Preview Content */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				834336AF2B8C44BA007E8467 /* ContentView.swift in Sources */,
+				834336D82B8C44FC007E8467 /* QueryConverter.swift in Sources */,
 				834336AD2B8C44BA007E8467 /* SQLConverterApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -421,6 +425,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = SQLConverter/SQLConverter.entitlements;
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "-";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
@@ -448,6 +453,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = SQLConverter/SQLConverter.entitlements;
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "-";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;

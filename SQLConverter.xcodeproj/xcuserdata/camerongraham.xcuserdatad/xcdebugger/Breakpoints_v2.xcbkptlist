@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A8C2AC38-DB86-434F-B947-C85D40B3D837"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "212C1EDE-788C-42E7-BFB5-683DECAE4854"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SQLConverter/QueryConverter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "convertSqlQueryToTableQuery(mappingTable:sqlQuery:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0A708080-7212-4019-B38D-E5B295573543"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SQLConverter/QueryConverter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "convertSqlQueryToTableQuery(mappingTable:sqlQuery:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0A708080-7212-4019-B38D-E5B295573543 - f958b1ff71ce1b03"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SQLConverter.QueryConverter.convertSqlQueryToTableQuery(mappingTable: Swift.String, sqlQuery: Swift.String) -&gt; Swift.String"
+                  moduleName = "SQLConverter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/camerongraham/repos/SQLConverter/SQLConverter/QueryConverter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "884">
+               </Location>
+               <Location
+                  uuid = "0A708080-7212-4019-B38D-E5B295573543 - b491751b4d97d1e2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (SQLConverter.SingleRowMappingInfo) -&gt; Swift.Bool in SQLConverter.QueryConverter.convertSqlQueryToTableQuery(mappingTable: Swift.String, sqlQuery: Swift.String) -&gt; Swift.String"
+                  moduleName = "SQLConverter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/camerongraham/repos/SQLConverter/SQLConverter/QueryConverter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A2D6E881-9A00-4DA2-8759-8CFA13982C33"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SQLConverter/QueryConverter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "convertSqlQueryToTableQuery(mappingTable:sqlQuery:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A2D6E881-9A00-4DA2-8759-8CFA13982C33 - f958b1ff71ce1bcd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SQLConverter.QueryConverter.convertSqlQueryToTableQuery(mappingTable: Swift.String, sqlQuery: Swift.String) -&gt; Swift.String"
+                  moduleName = "SQLConverter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/camerongraham/repos/SQLConverter/SQLConverter/QueryConverter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "1124">
+               </Location>
+               <Location
+                  uuid = "A2D6E881-9A00-4DA2-8759-8CFA13982C33 - b491751b4d97d12c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (SQLConverter.SingleRowMappingInfo) -&gt; Swift.Bool in SQLConverter.QueryConverter.convertSqlQueryToTableQuery(mappingTable: Swift.String, sqlQuery: Swift.String) -&gt; Swift.String"
+                  moduleName = "SQLConverter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/camerongraham/repos/SQLConverter/SQLConverter/QueryConverter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "A2D6E881-9A00-4DA2-8759-8CFA13982C33 - 34045682026a7ecd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 (SQLConverter.SingleRowMappingInfo) -&gt; () in SQLConverter.QueryConverter.convertSqlQueryToTableQuery(mappingTable: Swift.String, sqlQuery: Swift.String) -&gt; Swift.String"
+                  moduleName = "SQLConverter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/camerongraham/repos/SQLConverter/SQLConverter/QueryConverter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "172">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B1BEF6F1-3D78-4801-B3D4-4693B0E5CA5D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SQLConverter/QueryConverter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "convertSqlQueryToTableQuery(mappingTable:sqlQuery:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B1BEF6F1-3D78-4801-B3D4-4693B0E5CA5D - 34045682026a7eee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 (SQLConverter.SingleRowMappingInfo) -&gt; () in SQLConverter.QueryConverter.convertSqlQueryToTableQuery(mappingTable: Swift.String, sqlQuery: Swift.String) -&gt; Swift.String"
+                  moduleName = "SQLConverter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/camerongraham/repos/SQLConverter/SQLConverter/QueryConverter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "204">
+               </Location>
+               <Location
+                  uuid = "B1BEF6F1-3D78-4801-B3D4-4693B0E5CA5D - 34045682026a7eee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 (SQLConverter.SingleRowMappingInfo) -&gt; () in SQLConverter.QueryConverter.convertSqlQueryToTableQuery(mappingTable: Swift.String, sqlQuery: Swift.String) -&gt; Swift.String"
+                  moduleName = "SQLConverter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/camerongraham/repos/SQLConverter/SQLConverter/QueryConverter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "620">
+               </Location>
+               <Location
+                  uuid = "B1BEF6F1-3D78-4801-B3D4-4693B0E5CA5D - 34045682026a7eee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 (SQLConverter.SingleRowMappingInfo) -&gt; () in SQLConverter.QueryConverter.convertSqlQueryToTableQuery(mappingTable: Swift.String, sqlQuery: Swift.String) -&gt; Swift.String"
+                  moduleName = "SQLConverter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/camerongraham/repos/SQLConverter/SQLConverter/QueryConverter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "712">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "41970BD8-727E-44AE-AFAD-2646839A51AC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SQLConverter/QueryConverter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
+            landmarkName = "convertSqlQueryToTableQuery(mappingTable:sqlQuery:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D7846406-7A1D-4804-85B1-02923A8AE68E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SQLConverter/QueryConverter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110"
+            landmarkName = "convertSqlQueryToTableQuery(mappingTable:sqlQuery:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3DF79A19-50CA-446F-B8CB-0346AA6A509A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SQLConverter/QueryConverter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "116"
+            endingLineNumber = "116"
+            landmarkName = "convertSqlQueryToTableQuery(mappingTable:sqlQuery:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
